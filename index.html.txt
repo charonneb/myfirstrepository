@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>basicpage</title>
+</head>
+<body>
+
+<h1> Welcome to my page</h1>
+<p> paragraph </p>
+<img src="images/newyork.jpg">
+
+
+</body>
+</html>
